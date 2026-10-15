@@ -23,6 +23,16 @@ step 3 check whether it is active
 
 step 4 review recent services logs
 
-picture here
+<img width="408" height="110" alt="image" src="https://github.com/user-attachments/assets/1c137faa-1e12-4b7d-9273-a2f6cfa93a66" />
 
-Step 5
+Step 5 Check system time
+
+<img width="457" height="199" alt="image" src="https://github.com/user-attachments/assets/be1083c8-3c97-480f-9232-11db4590872c" />
+
+Step 6 check time synchronization
+
+<img width="667" height="243" alt="image" src="https://github.com/user-attachments/assets/c7790c55-75b6-4a67-9ecf-4d926368347d" />
+
+Step 7 view time sources
+
+Lab 3 Linux service management with systemd is complete
