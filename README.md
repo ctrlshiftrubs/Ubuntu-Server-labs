@@ -1,4 +1,4 @@
-# LINIX
+# LINUX
 UbuNTU SERVER LAB 2 cont.
        <img width="588" height="119" alt="image" src="https://github.com/user-attachments/assets/83f2326e-050c-4f36-8bb7-a93784dc4037" />
 
