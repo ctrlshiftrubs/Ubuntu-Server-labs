@@ -1,0 +1,14 @@
+Hey guys if the Ubuntu server command line is not visually pleasing to you or dont like the fact that there is no cursor, you can remote desktop into a zShell terminal
+Under will be the steps to do so
+
+
+
+
+Step 1 - Open your Z shell
+
+
+Step 2 - Enter username and Ip address in this format " ssh username@ipaddress
+
+
+Step 3 - Enter the passwors used for ubuntu server and you are remotely connected.
+
