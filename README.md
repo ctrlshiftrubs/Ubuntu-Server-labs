@@ -1,10 +1,3 @@
-# LINUX
-UbuNTU SERVER LAB 2 cont.
-       <img width="588" height="119" alt="image" src="https://github.com/user-attachments/assets/83f2326e-050c-4f36-8bb7-a93784dc4037" />
-
-Step 9 verifying the change
-
-
 Ubuntu server lab 3
 
 <img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/bc92773d-bb4e-4fb5-8aa8-b4bb950056e1" />
