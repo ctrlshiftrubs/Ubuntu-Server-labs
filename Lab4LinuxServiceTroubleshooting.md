@@ -21,5 +21,15 @@ Step 4 - Identify the error if there is any
 Step 5 - Check whether the executbale exists
 
 
+<img width="659" height="25" alt="image" src="https://github.com/user-attachments/assets/bd88a121-91ca-4f56-833c-5a2deb1cf3bb" />
+
+Step 6 - Inspect the configured startup command
+
+Step 7 - Review the findings
+The service failed because its configured executbale did not exist. The next thing to troubleshoot would be the 'ExecStart path to a valid program, rather than restsrting the service several times over
+
+
+
+
 
 
