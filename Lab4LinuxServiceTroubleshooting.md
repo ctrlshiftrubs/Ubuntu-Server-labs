@@ -54,6 +54,9 @@ Step 11 - Verify that it works( It shiuld say active running)
 
 Step 12 - Check the service logs
 
+Lab complete
+
+
 
 
 
